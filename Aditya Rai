@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya kumar Rai</title>
+</head>
+<h1>Aditya Kumar Rai</h1> <br>
+<body>
+<p><b>Email:</b>iec2021028@gmail.com |<b>Phone:</b>9973454546 | <b>My Github URL:</b><a href="https://github.com/Adi-R12">Adi-R12</a>  </p><br>
+<hr>
+<h2>Education</h2>
+<ul>
+    <li>Passed my 12th From Delhi Public School Bokaro ,JH ,Percentage:- 96%.</li>
+    <li>Currently 1st Year Btech UG From IIIT Allahabad </li>
+</ul>
+<hr>
+<p><h2>Skills</h2></p>
+
+<table width="200">
+    <thead>
+        <tr>
+        <th><b>Language</b></th>
+        <th><b>Skill</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <th><b>HTML</b></th>
+        <th>
+            &#9733;
+            &#9733;
+            &#9733;
+            &#9733;
+            &#9734;
+        </th>
+    </tbody>
+    <tbody>
+        <tr>
+            <th><b>CSS</b></th>
+        <th>&#9733;
+            &#9733;
+            &#9733;
+            &#9734;
+            &#9734;
+        </th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th><b>Javascript</b></th>
+        <th>&#9733;
+            &#9733;
+            &#9734;
+            &#9734;
+            &#9734;
+        </th>
+        </tr>
+    </tbody>
+    </table><hr>
+
+<form action="">
+<h2>Contact Me</h2>
+<fieldset>
+    <p>First Name:*<input type="text" placeholder="Enter Your Name">
+      <br>
+      
+        <p>Your Email-Id:*<input type="text" placeholder="Enter Your Email-id">
+          <br><br>
+          <label>Your Message</label>
+<textarea id="Enter Your Messages" name="Contact Me" rows="4" cols="50" placeholder="Enter Your Messages!!">
+   
+</textarea> <br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
